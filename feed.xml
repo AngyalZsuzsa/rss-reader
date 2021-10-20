@@ -1,0 +1,17 @@
+<news>
+  <item>
+    <title>Politics</title>
+    <description>Daily news about politics</description>
+    <link>google.com</link>
+  </item>
+  <item>
+    <title>Sport</title>
+    <description>Latest event</description>
+    <link>google.com</link>
+  </item>
+  <item>
+    <title>Gossip</title>
+    <description>Celebrity news</description>
+    <link>google.com</link>
+  </item>
+</news>
